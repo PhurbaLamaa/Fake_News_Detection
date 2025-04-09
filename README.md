@@ -49,31 +49,37 @@ To run the app locally:
 ```bash
 streamlit run fake_news_detection_UI.py
 ```
-📁 Repository Structure 
+## 📁 Repository Structure 
+```bash
 ├── Fake_real_classifier.ipynb     # Main Jupyter notebook
 ├── fake_news_detection_UI.py      # Streamlit web app
 ├── README.md                      # Project documentation
 ├── requirements.txt               # List of dependencies
+```
 
-📦 Installation
+## 📦 Installation
 1. Clone the repo:
+```bash
 git clone https://github.com/yourusername/fake_news_detection.git
 cd fake_news_detection
-
+```
 2. Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 3. Run the Streamlit app:
+```bash
 streamlit run fake_news_detection_UI.py
+```
 
-📌 Future Improvements
+## 📌 Future Improvements
 1. Incorporate deep learning models like LSTM or BERT
 2. Add more robust preprocessing with named entity recognition
 3. Use a larger, more diverse dataset
 4.Deploy the app using platforms like Heroku or Streamlit Cloud
 
-🤝 Contributions
+## 🤝 Contributions
 Feel free to fork this repo and submit pull requests. All contributions are welcome!
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
