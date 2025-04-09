@@ -48,7 +48,7 @@ A simple web interface built with Streamlit allows users to enter a piece of new
 To run the app locally:
 ```bash
 streamlit run fake_news_detection_UI.py
-
+```
 📁 Repository Structure 
 ├── Fake_real_classifier.ipynb     # Main Jupyter notebook
 ├── fake_news_detection_UI.py      # Streamlit web app
